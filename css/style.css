@@ -45,7 +45,7 @@ a {
     text-decoration: none;
 }
 .cabecalho {
-    background-image: linear-gradient(rgba(30, 31, 20, 0.267), rgba(49, 45, 2, 0.205)), url(../img/banner.jpeg);
+    background-image: linear-gradient(rgba(30, 31, 20, 0.267), rgba(49, 45, 2, 0.205)), url(../img/banner.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
